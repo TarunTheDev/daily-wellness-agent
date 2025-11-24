@@ -56,8 +56,8 @@ health-wellness-companion/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
-cd health-wellness-companion
+git clone https://github.com/TarunTheDev/daily-wellness-agent.git
+cd daily-wellness-agent
 ```
 
 ### 2. Set Up Backend
